@@ -12,4 +12,13 @@ Tools:
 - NumPy
 - TensorFlow/Keras
 
+Data Features
+- Monthly Usage
+- Complaints
+- Subscription Length
+- Monthly Spend
+
+Objective
+Predict whether a customer is likely to default on a loan
+
 Author: Pranav Subramaniyan
